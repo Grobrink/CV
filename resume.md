@@ -22,7 +22,7 @@ Expérience
 
 	> - [Rapport annuel Belgacom](http://rapportannuel.belgacom.com/ "Site du rapport annuel 2013 de belgacom pour lequel j'ai entièrement découpé et intégré le site, nominé sur awwwards.com") ;
 	> - [Mydimm.com](http://www.mydimm.com/ "Site outil de réalisation de meubles sur mesures pour lequel j'ai participé à l'intégration et au développement frontend") ;
-	> - Carte de vœux Belgacom 2013, pour laquel j'ai développé sur mesure une interface HTML/CSS/JS utilisant l'API Facebook Connect ;
+	> - Carte de vœux Belgacom 2013, pour laquel j'ai développé sur mesure une interface HTML/CSS/JS utilisant l'API Facebook Connect.
 
 - **De septembre 2010 à septembre 2013** Développeur et designeur web à Ictra.
 	+ Design, découpe et intégration ;
