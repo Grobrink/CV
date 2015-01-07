@@ -49,4 +49,4 @@ Repo perso
 ----------
 [Github.com/Grobrink](https://github.com/Grobrink/ "Peu fourni mais toujours prêt à servir !")
 - **[Inkubator](https://grobrink/inkubator "Un générateur de PNJs pour D&D")** Il s'agit d'un générateur de PNJ pour la dernière mouture de Donjons et Dragons, le frontend utilise un modèle JS événementiel et appel différentes méthodes PHP via AJAX.
-- **[Terrain de jeu/Futur blog](https://grobrink/wip "Une base pour mon prochain blog de sport")** Il s'agit d'une base qui grossira pour obtenir le thème WP qui me servira d'un blog consacré à ma pratique de la course à pied, j'y essaye des nouveautés HTML5, CSS3 et méthodologies CSS telles que OOCSS et BEM.
+- **[Terrain de jeu/Futur blog](https://grobrink/wip "Une base pour mon prochain blog de sport")** Il s'agit d'une base qui grossira pour obtenir le thème WP qui me servira comme blog consacré à ma pratique de la course à pied, j'y essaye des nouveautés HTML5, CSS3 et méthodologies CSS telles que OOCSS et BEM.
