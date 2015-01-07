@@ -16,22 +16,22 @@ Etudes
 Expérience
 ----------
 - **De septembre 2013 à aujourd'hui** Développeur web touche-à-tout en agence web chez Globule bleu.
-	+Découpe et intégration ;
-	+Développement frontend léger (JS/PHP) ;
-	+Backup Développement frontend lourd.
+	+ Découpe et intégration ;
+	+ Développement frontend léger (JS/PHP) ;
+	+ Backup Développement frontend lourd.
 
-	> -[Rapport annuel Belgacom](http://rapportannuel.belgacom.com/ "Site du rapport annuel 2013 de belgacom pour lequel j'ai entièrement découpé et intégré le site, nominé sur awwwards.com") ;
-	> -[Rapport annuel Belgacom](http://www.mydimm.com/ "Site outil de réalisation de meubles sur mesures pour lequel j'ai participé à l'intégration et au développement frontend") ;
-	> -Carte de vœux Belgacom 2013, pour laquel j'ai développé sur mesure une interface HTML/CSS/JS utilisant l'API Facebook Connect ;
+	> - [Rapport annuel Belgacom](http://rapportannuel.belgacom.com/ "Site du rapport annuel 2013 de belgacom pour lequel j'ai entièrement découpé et intégré le site, nominé sur awwwards.com") ;
+	> - [Rapport annuel Belgacom](http://www.mydimm.com/ "Site outil de réalisation de meubles sur mesures pour lequel j'ai participé à l'intégration et au développement frontend") ;
+	> - Carte de vœux Belgacom 2013, pour laquel j'ai développé sur mesure une interface HTML/CSS/JS utilisant l'API Facebook Connect ;
 
 - **De septembre 2010 à septembre 2013** Développeur et designeur web à Ictra.
-	+Design, découpe et intégration ;
-	+Développement (Air/Flex et JS/PHP) ;
-	+Codereview.
+	+ Design, découpe et intégration ;
+	+ Développement (Air/Flex et JS/PHP) ;
+	+ Codereview.
 
 - **De février à mai 2010** Stage de fin d'études à Ictra, une falliale informatique et télécom du holding SNCB.
-	+Design ;
-	+Développement frontend.
+	+ Design ;
+	+ Développement frontend.
 
 Compétences et outils
 ---------------------
