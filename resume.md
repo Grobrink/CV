@@ -21,7 +21,7 @@ Expérience
 	+ Backup Développement frontend lourd.
 
 	> - [Rapport annuel Belgacom](http://rapportannuel.belgacom.com/ "Site du rapport annuel 2013 de belgacom pour lequel j'ai entièrement découpé et intégré le site, nominé sur awwwards.com") ;
-	> - [Rapport annuel Belgacom](http://www.mydimm.com/ "Site outil de réalisation de meubles sur mesures pour lequel j'ai participé à l'intégration et au développement frontend") ;
+	> - [Mydimm.com](http://www.mydimm.com/ "Site outil de réalisation de meubles sur mesures pour lequel j'ai participé à l'intégration et au développement frontend") ;
 	> - Carte de vœux Belgacom 2013, pour laquel j'ai développé sur mesure une interface HTML/CSS/JS utilisant l'API Facebook Connect ;
 
 - **De septembre 2010 à septembre 2013** Développeur et designeur web à Ictra.
@@ -39,6 +39,7 @@ Compétences et outils
 - L'accessibilité, les perfomances et le respect des standards sont mes chevaux de bataille.
 - Je garde PHP et l'AS3 au foureau pour me sortir de certaines aventures.
 - Photoshop et Illustrator m'accompagnent dans chaque quête.
+- Git garde une trace de toutes mes péripéties.
 
 - J'apporte une attention particulière à l'expérience de l'utilisateur final d'un site ou d'une application, bien plus qu'au client (les trolls sont de sortie !).
 - Une approche Mobile first me semble incontournable pour une écrasante majorité des projets (Prenez un verre et on en discutera des heures).
@@ -48,4 +49,4 @@ Repo perso
 ----------
 [Github.com/Grobrink](https://github.com/Grobrink/ "Peu fourni mais toujours prêt à servir !")
 - **[Inkubator](https://grobrink/inkubator "Un générateur de PNJs pour D&D")** Il s'agit d'un générateur de PNJ pour la dernière mouture de Donjons et Dragons, le frontend utilise un modèle JS événementiel et appel différentes méthodes PHP via AJAX.
-- **[Terrain de jeu/Futur blog](https://grobrink/wip "Une base pour mon prochain blog de sport")** Il s'agit d'une base qui grossira pour obtenir le thème WP qui me servira de blog consacré à ma pratique de la course à pied, j'y essaye des nouveautés HTML5, CSS3 et méthodologies CSS telles que OOCSS et BEM.
+- **[Terrain de jeu/Futur blog](https://grobrink/wip "Une base pour mon prochain blog de sport")** Il s'agit d'une base qui grossira pour obtenir le thème WP qui me servira d'un blog consacré à ma pratique de la course à pied, j'y essaye des nouveautés HTML5, CSS3 et méthodologies CSS telles que OOCSS et BEM.
