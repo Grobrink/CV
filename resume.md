@@ -3,9 +3,9 @@ Pierre Lefèvre
 
 Bio
 ---
-Né le 17 janvier 1986 à Liège.
-Ancien sprinter sur 100 et 200 m.
-Aujourd'hui coureur de fond.
+- Né le 17 janvier 1986 à Liège.
+- Ancien sprinter sur 100 et 200 m.
+- Aujourd'hui coureur de fond.
 
 Etudes
 ------
