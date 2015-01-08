@@ -44,6 +44,14 @@ Compétences et outils
 - Une approche Mobile first me semble incontournable pour une écrasante majorité des projets (Prenez un verre et on en discutera des heures).
 - Je suis persuadé que la sémantique fera triompher le bien et que les manigances du Côté Obscure ne gagneront pas entièrement le net (Là on attaque déjà le troisième ou le quatrième godet).
 
+### Tests et POC
+- AngularJS
+- KineticJS
+- LeafletJS
+- Facebook Connect
+- Twitter API
+- PureMVC
+
 Repo perso
 ----------
 [Github.com/Grobrink](https://github.com/Grobrink/ "Peu fourni mais toujours prêt à servir !")
