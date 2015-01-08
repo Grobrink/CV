@@ -4,9 +4,8 @@ Pierre Lefèvre
 Bio
 ---
 Né le 17 janvier 1986 à Liège.
-J'ai vécu 13 ans à Strivay entre vallée de l'Ourthe et le Condroz.
-J'ai pratiqué le sprint à plus ou moins haut niveau avec différents titres dont une médaille d'or au championnats de Belgique sur 200 m.
-Aujourd'hui je vis à Liège et cours de bien plus longues distances que 200 m. !
+Ancien sprinter sur 100 et 200 m.
+Aujourd'hui coureur de fond.
 
 Etudes
 ------
