@@ -45,12 +45,12 @@ Compétences et outils
 - Je suis persuadé que la sémantique fera triompher le bien et que les manigances du Côté Obscure ne gagneront pas entièrement le net (Là on attaque déjà le troisième ou le quatrième godet).
 
 ### Tests et POC
-- AngularJS
-- KineticJS
-- LeafletJS
-- Facebook Connect
-- Twitter API
-- PureMVC
+- AngularJS, Framework JS en MVC ;
+- KineticJS, Librairie JS pour utiliser Canvas à la manière d'AS3 ;
+- LeafletJS, Librairie permettant d'exploiter OpenStreetMap en JS ;
+- Facebook Connect ;
+- Twitter API ;
+- PureMVC.
 
 Repo perso
 ----------
